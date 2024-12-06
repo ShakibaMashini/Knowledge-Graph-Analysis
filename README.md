@@ -42,7 +42,7 @@ Constructs a graph representation from the dataset, including nodes and edges wi
 Applies graph convolution techniques to propagate and analyze relational data.
 # Training Pipeline:
 Implements a training loop for the model, optimizing its parameters on the provided dataset.
-Evaluates model performance on tasks related to relationship classification or link prediction.
+Evaluates model performance on tasks related to link prediction.
 # Output:
 ![Knowledge Graph Visualization](Unknown-50.png)
 
