@@ -8,7 +8,7 @@ As shown in the accompanying plot, the dataset was divided into these two parts,
 Below is a graph representing the relationships in the knowledge graph analysis:
 
 ![Knowledge Graph Visualization](graph-3.png)
-# DataSet Notebook Overview
+# 1. DataSet Notebook Overview
 This notebook, located at Code/dataset.ipynb, processes and analyzes a dataset of categorized news articles and performs advanced analyses like topic modeling and knowledge graph creation.
 # Dataset Source:
 The original dataset is sourced from Kaggle[https://www.kaggle.com/datasets/rmisra/news-category-dataset], containing categorized news headlines.
@@ -27,7 +27,7 @@ Uses networkx to build a knowledge graph based on relationships between entities
 Visualizes and analyzes the structure of the graph to uncover insights.
 # Output:
 Produces a filtered dataset, extracted topics, and a knowledge graph for further exploration and visualization.
-# Model Notebook Overview
+# 2. Model Notebook Overview
 # Dependencies:
 Installs and imports essential libraries like torch, torch_geometric, and related modules (RGCNConv, GCNConv).
 Handles data manipulation using pandas.
