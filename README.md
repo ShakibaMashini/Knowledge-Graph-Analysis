@@ -9,7 +9,7 @@ Below is a graph representing the relationships in the knowledge graph analysis:
 
 ![Knowledge Graph Visualization](graph-3.png)
 # Notebook Overview
-This notebook, located at ![Knowledge Graph Visualization](Code/dataset.ipynb), processes and analyzes a dataset of categorized news articles and performs advanced analyses like topic modeling and knowledge graph creation.
+This notebook, located at ![Add files via upload](Code/dataset.ipynb), processes and analyzes a dataset of categorized news articles and performs advanced analyses like topic modeling and knowledge graph creation.
 # Dataset Source:
 The original dataset is sourced from Kaggle[https://www.kaggle.com/datasets/rmisra/news-category-dataset], containing categorized news headlines.
 # Dependencies:
