@@ -5,9 +5,6 @@ As shown in the accompanying plot, the dataset was divided into these two parts,
 ![Knowledge Graph Visualization](KG-KGu.png)
 
 
-Below is a graph representing the relationships in the knowledge graph analysis:
-
-![Knowledge Graph Visualization](graph-3.png)
 # 1. DataSet Notebook Overview
 This notebook, located at Code/dataset.ipynb, processes and analyzes a dataset of categorized news articles and performs advanced analyses like topic modeling and knowledge graph creation.
 # Dataset Source:
@@ -25,6 +22,8 @@ Clusters similar headlines into topics to identify patterns and trends in the da
 # Knowledge Graph Creation:
 Uses networkx to build a knowledge graph based on relationships between entities extracted from the dataset (e.g., headlines, authors, categories).
 Visualizes and analyzes the structure of the graph to uncover insights.
+Below is a graph representing the relationships in the knowledge graph analysis:
+![Knowledge Graph Visualization](graph-3.png)
 # Output:
 Produces a filtered dataset, extracted topics, and a knowledge graph for further exploration and visualization.
 # 2. Model Notebook Overview
