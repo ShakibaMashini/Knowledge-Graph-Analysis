@@ -11,7 +11,7 @@ Below is a graph representing the relationships in the knowledge graph analysis:
 # 1. DataSet Notebook Overview
 This notebook, located at Code/dataset.ipynb, processes and analyzes a dataset of categorized news articles and performs advanced analyses like topic modeling and knowledge graph creation.
 # Dataset Source:
-The original dataset is sourced from Kaggle[https://www.kaggle.com/datasets/rmisra/news-category-dataset], containing categorized news headlines.
+The original dataset is sourced from Kaggle[https://www.kaggle.com/datasets/rmisra/news-category-dataset].
 # Dependencies:
 Utilizes essential Python libraries such as pandas, json, scikit-learn and gensim for topic modeling, and networkx for knowledge graph creation.
 Includes Google Colab integration for accessing files from Google Drive.
