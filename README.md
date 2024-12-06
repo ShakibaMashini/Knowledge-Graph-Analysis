@@ -44,4 +44,6 @@ Applies graph convolution techniques to propagate and analyze relational data.
 Implements a training loop for the model, optimizing its parameters on the provided dataset.
 Evaluates model performance on tasks related to relationship classification or link prediction.
 # Output:
-Processes the results to provide insights into the relationships and patterns within the graph.
+![Knowledge Graph Visualization](Unknown-50.png)
+
+
