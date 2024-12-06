@@ -8,3 +8,22 @@ As shown in the accompanying plot, the dataset was divided into these two parts,
 Below is a graph representing the relationships in the knowledge graph analysis:
 
 ![Knowledge Graph Visualization](graph-3.png)
+# Notebook Overview
+This notebook, located at [Code/dataset.ipynb], processes and analyzes a dataset of categorized news articles and performs advanced analyses like topic modeling and knowledge graph creation.
+# Dataset Source:
+The original dataset is sourced from Kaggle[https://www.kaggle.com/datasets/rmisra/news-category-dataset], containing categorized news headlines.
+# Dependencies:
+Utilizes essential Python libraries such as pandas, json, scikit-learn and gensim for topic modeling, and networkx for knowledge graph creation.
+Includes Google Colab integration for accessing files from Google Drive.
+# Dataset Loading:
+Converts the JSON data into a pandas DataFrame for analysis.
+# Data Filtering:
+Filters the dataset to include articles published between '2020-09-23' and '2022-09-23`.
+# Topic Modeling:
+Applies topic modeling techniques on the headline column to extract underlying themes.
+Clusters similar headlines into topics to identify patterns and trends in the dataset.
+# Knowledge Graph Creation:
+Uses networkx to build a knowledge graph based on relationships between entities extracted from the dataset (e.g., headlines, authors, categories).
+Visualizes and analyzes the structure of the graph to uncover insights.
+# Output:
+Produces a filtered dataset, extracted topics, and a knowledge graph for further exploration and visualization.
