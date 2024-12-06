@@ -28,6 +28,7 @@ Visualizes and analyzes the structure of the graph to uncover insights.
 # Output:
 Produces a filtered dataset, extracted topics, and a knowledge graph for further exploration and visualization.
 # 2. Model Notebook Overview
+This notebook, located at Code/model.ipynb,
 # Dependencies:
 Installs and imports essential libraries like torch, torch_geometric, and related modules (RGCNConv, GCNConv).
 Handles data manipulation using pandas.
